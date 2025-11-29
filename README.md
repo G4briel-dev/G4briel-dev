@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./g4.png" width="100%" alt="Banner G4briel-dev" />
 </p>
-
-<h1 align="center">Pedro Gabriel</h1>
-
 <p align="center">
   <strong>Front-end Developer</strong> — React • Acessibilidade • Performance
 </p>
