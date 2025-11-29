@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-g4briel-dev.png" width="100%" alt="Banner G4briel-dev" />
+  <img src="./g4.png" width="100%" alt="Banner G4briel-dev" />
 </p>
 
 <h1 align="center">Pedro Gabriel</h1>
