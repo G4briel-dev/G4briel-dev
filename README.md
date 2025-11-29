@@ -23,7 +23,7 @@
 
 ## 🚀 Bem-vindo ao meu universo de código
 
-Sou **G4briel-dev**, um desenvolvedor front-end focado em criar experiências digitais modernas, acessíveis e performáticas. Meu objetivo é transformar ideias em interfaces funcionais e intuitivas, utilizando tecnologias atuais e práticas de mercado.
+Sou **Pedro Gabriel**, um desenvolvedor front-end focado em criar experiências digitais modernas, acessíveis e performáticas. Meu objetivo é transformar ideias em interfaces funcionais e intuitivas, utilizando tecnologias atuais e práticas de mercado.
 
 ---
 
